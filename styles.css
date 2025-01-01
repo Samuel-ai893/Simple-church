@@ -226,7 +226,7 @@ p::selection{
         position: relative;
     }
     nav{
-        top: 0;
+        top: 1;
     }
 }
 
