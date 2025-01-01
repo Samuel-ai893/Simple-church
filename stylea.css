@@ -169,14 +169,14 @@ p::selection{
         display: none;
     }
     .banner .welcome h2{
-        font-size: 25px;
+        font-size: 20px;
     }
     .banner .welcome span{
         font-size: 1em;
     }
     .images li{
         width: 100%;
-        margin: 20px auto;
+        margin: 30px auto;
         display: block;
     }
 }
@@ -184,7 +184,7 @@ p::selection{
 @media screen and (max-width: 560px){
 
     nav li{
-        font-size: 20px;
+        font-size: 18px;
         display: block;
         width: 100%;
         margin: 12px 0;
