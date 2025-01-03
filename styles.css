@@ -196,7 +196,7 @@ p::selection{
     .banner .welcome{
         position: relative;
         text-align: center;
-        padding: 10px;
+        padding: 15px;
     }
     .banner .welcome br{
         display: none;
