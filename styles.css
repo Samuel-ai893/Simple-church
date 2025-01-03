@@ -173,7 +173,7 @@ p::selection{
 
 /* Responsive style */
 
-@media screen and (max-width: 1400px){
+@media screen and (max-width: 1500px){
 
     .banner .welcome h2{
         font-size: 60px;
@@ -220,7 +220,7 @@ p::selection{
         font-size: 20px;
         display: block;
         width: 100%;
-        margin: 12px 0;
+        margin: 10px 0;
     }
     header{
         position: relative;
